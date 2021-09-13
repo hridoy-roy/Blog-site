@@ -1,5 +1,4 @@
 @extends('layouts.frontend.app')
-
 @section('title','Category')
 
 @push('css')
